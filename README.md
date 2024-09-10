@@ -46,8 +46,8 @@ Software Engineering Day1 Assignment
 
 **4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.**
    
-  Waterfall methodology is a sequentially cascading approach where each phase of SDLC must be completed before moving to the next. Best for projects with well-defined requirements, such as safety-critical systems while agile methodology is an iterative approach that allows for continuous development and testing in short cycles.
-  Waterfall methodology would be appropriate for scenarios like regulatory compliance project in cases like the healt and finace industries and safety critical systems like medical devices and systems while scenarios like moble app development or web app development and Machine Learning projects are suited for agile methodology
+  Waterfall methodology is a sequentially cascading approach where each phase of SDLC must be completed before moving to the next. Best for projects with well-defined requirements while agile methodology is an iterative approach that allows for continuous development and testing in short cycles.
+  Waterfall methodology would be appropriate for scenarios like regulatory compliance project in cases like the health and finace industries and safety critical systems like medical devices and systems while scenarios like mobile app development or web app development and Machine Learning projects are suited for agile methodology
 
 **5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.**
    
