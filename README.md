@@ -72,6 +72,7 @@ Software Engineering Day1 Assignment
 
 **8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 **
+
   Unit Testing: Testing individual units or components of code to ensure they work as expected.
   
   Integration Testing: Testing how well different modules or components work together when the software is integrated into the system
@@ -90,4 +91,5 @@ Software Engineering Day1 Assignment
 **2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
 
   Vague Prompt: "Tell me about climate change."
+  
   Improved Prompt: "Describe how human activities contribute to global warming, with a focus on the impact of fossil fuel consumption and deforestation."
