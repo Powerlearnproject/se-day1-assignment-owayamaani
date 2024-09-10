@@ -65,17 +65,22 @@ Software Engineering Day1 Assignment
           Challenge                           |       Strategy
  _____________________________________________| ______________________________________________________________________________________________________
   Dealing with changing requirement           | Use Agile methodologies to allow flexibility.
+  
   Debugging complex systems                   | Break down the code, use logging tools, and conduct thorough testing to identify and resolve issues.
+  
   Balancing performance with development time | Prioritize critical features, follow best practices, and continuously refactor code.
 
 **8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 **
   Unit Testing: Testing individual units or components of code to ensure they work as expected.
+  
   Integration Testing: Testing how well different modules or components work together when the software is integrated into the system
+  
   System Testing: Testing the entire system as a whole to verify it meets functional requirements.
+  
   Acceptance Testing: Ensuring the system meets the end-users’ needs and requirements before release.
 
-#Part 2: Introduction to AI and Prompt Engineering
+##Part 2: Introduction to AI and Prompt Engineering
 
 
 **1. Define prompt engineering and discuss its importance in interacting with AI models.**
