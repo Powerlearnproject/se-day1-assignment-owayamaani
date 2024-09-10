@@ -70,8 +70,8 @@ Software Engineering Day1 Assignment
   
   Balancing performance with development time | Prioritize critical features, follow best practices, and continuously refactor code.
 
-**8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-**
+
+**8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.**
 
   Unit Testing: Testing individual units or components of code to ensure they work as expected.
   
