@@ -28,7 +28,7 @@ Software Engineering Day1 Assignment
     Impact: Agile methodologies like Scrum and Kanban gained popularity, offering more flexible and adaptive approaches to software development.
 
 
-3.** List and briefly explain the phases of the Software Development Life Cycle.**
+**3.List and briefly explain the phases of the Software Development Life Cycle.**
   1. Planning: Involves conducting a cost-benefit analysis, defining the project schedule, and estimating the resources required to complete the project efficiently.
   
   2. Requirements Analysis: Focuses on gathering and analyzing the functional and non-functional requirements to understand the project's scope and define the system’s expectations clearly.
